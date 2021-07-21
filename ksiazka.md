@@ -5,3 +5,5 @@ Szkoła: infoShare
 Git
 Szkoła:
 Miejscowosć
+Szkoła:
+Miejscowosć
