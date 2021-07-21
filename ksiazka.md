@@ -7,3 +7,5 @@ Szkoła:
 Miejscowosć
 Szkoła:
 Miejscowosć
+
+Add 1st p
