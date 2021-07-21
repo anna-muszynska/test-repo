@@ -9,3 +9,4 @@ Szkoła:
 Miejscowosć
 
 Add 1st p
+Add 2nd p
