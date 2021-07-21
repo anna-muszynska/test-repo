@@ -2,3 +2,4 @@
 
 Student: Anna Muszyńska
 Szkoła:
+Miejscowosć
