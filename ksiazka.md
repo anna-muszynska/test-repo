@@ -6,7 +6,7 @@ Git
 Szkoła:
 Miejscowosć
 Szkoła:
-Miejscowosć
+Miejscowosć: Kraków
 
 Add 1st p
 Add 2nd p
